@@ -1,7 +1,7 @@
 # Personal-Website
 Development of a static website
 
-Tools:
+**Tools:**
 - HTML
 - CSS
 - Vanilla JS (WIP)
